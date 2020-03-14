@@ -1,3 +1,9 @@
+Unreleased
+----------
+
+- Allow contexts to be defined with local switches in workspace files (#3265,
+  fix #3264, @rgrinberg)
+
 2.4.0 (06/03/2020)
 ------------------
 
